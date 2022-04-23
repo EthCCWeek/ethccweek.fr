@@ -1,21 +1,20 @@
-```
+Join the [Telegram group](https://t.me/amsblockchainweek)
 
-Enjoy EthCC 2021!
+# Amsterdam Blockchain Week
 
-```
+In 2022, DevConnect AMS takes place in April. While DevConnect AMS itself will be the flagship event series for the Ethereum communities with thousands descending upon Amsterdam for the week, there will be multiple side events, meetups, panels and parties also taking place during the same week in Amsterdam that might not fit on the Devconnect AMS official schedule (they do not list parties, for instance).
 
-# EthCC Week
+This is the Amsterdam Blockchain Week, a moment of inclusive conversations, educational gatherings, welcoming celebrations. If you're planning an event related to public blockchains and the decentralized movement, reach out to have it published on this website.
 
-In 2021, EthCC takes place in July, after more than one year with very few opportunities to gather the Ethereum community IRL. While EthCC itself will be the flagship event with more than 100 speakers coming from all over the world, multiple side events, meetups, panels and parties will take place on the same week in Paris.
-
-This is the EthCC Week, a moment of inclusive conversations, educational gatherings, welcoming celebrations. If you're planning an event related to public blockchains and the decentralized movement, you're very welcome to add it to EthCC Week website.
+The following event types will be listed here:
+- Parties, social events
+- Part-day gatherings, smaller events
+- Events related to public blockchains and the decentralized movement
 
 This repository contains the code for the website, which can be reached at
-[ethccweek.fr](https://ethccweek.fr/).
+[amsterdamblockchainweek.org](https://amsterdamblockchainweek.org/).
 
 ## Contributing
-
-Please read the
-[Wiki](https://github.com/EthCCWeek/ethccweek.fr/wiki)
-for instructions on how to add an event. Same process applies to modify the
-theme, functionality, or any other part of the website.
+Either:
+- Complete the event submission form [here](http://bit.ly/amsblockchainweek), or
+- Clone this repo, duplicate `events/devconnect-amsterdam` folder, and follow the instructions in that folder's README.md. Once completed, submit a PR back to this Amsterdam Blockchain Week repo.
